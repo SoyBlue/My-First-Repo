@@ -1,1 +1,1 @@
-print ("This is my firts repository")
+This is my firts repository 
